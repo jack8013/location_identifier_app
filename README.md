@@ -23,3 +23,7 @@ Required parameters:
 
 
 WSG84 data are sent through MethodChannel to Java, where conversions are done then is sent back to Flutter
+
+![alt text](images/camera1.jpg)
+
+![alt text](images/camera2.jpg)
